@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  NewsAPP
+
+  Created by Jason on 6/4/20.
+  Copyright © 2020 Jason. All rights reserved.
+*/
+"OK" = "OK";
+"NewsListTitle" = "News";
+"NewsListConnectionFailureMessage" = "A connection to the news api could not be made.\n\nHint: is your wifi on?";
+"NewsListConnectionFailureTitle" = "Unable to Connect";
+"NewsListLoadFailureMessage" = "The request to load News failed.";
+"NewsListLoadFailureTitle" = "Unable to Load News";
+"NewsListBadURLMessage" = "Please contact the one who writes the code to fix the bug.";
+"NewsListBadURLTitle" = "The software enginneer seems to make a bad url string";
+"NewsListUnknownErrorTitle" = "Unknown Error";
+"NewsListUnknownErrorMessage" = "Something mysterious happened";
